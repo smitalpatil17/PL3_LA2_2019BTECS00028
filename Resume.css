@@ -1,0 +1,28 @@
+.nav-item{
+    margin-left: 5px;
+}
+
+#contactBox{
+    border: 2px solid black;
+    background-color:bisque;
+    border-radius: 12px;
+}
+
+.heading{
+    margin-left:35%;
+    color: brown;
+}
+
+#submitBtn{
+    margin-left:47%;
+}
+
+.myPic{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#tableContainer{
+    padding-left: 10%;
+    padding-right: 10%;
+}
